@@ -1,0 +1,2 @@
+serviceClass: fr.istic.dugl.u4.client.SuccesService
+path: EDE8987F601DB6B402171F8F93B9EBE3.gwt.rpc
